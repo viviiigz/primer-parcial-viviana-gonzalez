@@ -32,13 +32,11 @@ article h3 {
 
 /* ==== Párrafos ==== */
 article p {
-  color: #292121;
+  color: #000000;
   font-size: 1rem;
 }
-
 /* ==== Footer ==== */
 footer {
-  background-color:  #0062f6;
   text-align: center;
   padding: 15px 0;
   margin-top: auto;
